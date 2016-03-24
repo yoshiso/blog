@@ -1,7 +1,8 @@
-baseurl = "http://yss44.github.io/"
+baseurl = "http://blog.yoshiso.net/"
 languageCode = "ja-JP"
 theme = "hugo-cactus-theme"
 title = "yohsiso's blog"
+googleAnalytics = "UA-43338300-1"
 
 [params]
     name = "yoshiso"
