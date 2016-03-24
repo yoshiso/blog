@@ -6,7 +6,7 @@ title = "yohsiso's blog"
 [params]
     name = "yoshiso"
     description = "yoshiso's website, Engineering, UI/UX, Startup"
-    bio = "I'm engineer love RoR."
+    bio = "Engineering, UI/UX, Startup"
     # Enter optionally your twitter account
     twitter = "yoshiso44"
     enableRSS = true
@@ -24,7 +24,7 @@ title = "yohsiso's blog"
     readMore = ""
     copyright = ""
     # Sharing options and author information in posts
-    aboutAuthor = "I'm an enthusiastic gopher."
+    aboutAuthor = "I'm engineer loves RoR.."
     tweet = ""
     share = ""
     # 404 page
