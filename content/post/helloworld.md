@@ -1,6 +1,5 @@
 +++
 date = "2016-03-24T23:17:41+09:00"
-draft = true
 title = "helloworld"
 
 +++
