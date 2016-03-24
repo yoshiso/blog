@@ -4,9 +4,12 @@ title = "helloworld"
 
 +++
 
-
-# hellow world
+## Hallo world
 
 hugo & github-pagesつかってブログ立ててみた
 
-## Hugo Install Sitemita
+Thanks [www.kotazi.com](http://www.kotazi.com/blog/post/2015111301/)
+
+## Why
+
+開発メモじゃない諸々を書くためにて;)

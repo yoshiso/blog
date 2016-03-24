@@ -19,3 +19,7 @@ Swift, Java, Javascript, ES6, Typescript, React, Python, Django, Docker
 
 ## Now
 I work as CTO at startup in Tokyo.
+
+## aboutme?
+
+I like [About me](http://www.nicovideo.jp/watch/sm22820339)
