@@ -1,3 +1,39 @@
 baseurl = "http://yss44.github.io/blog"
-languageCode = "en-us"
+languageCode = "ja-JP"
+theme = "hugo-cactus-theme"
 title = "yohsiso's blog"
+canonifyurls: true
+
+[params]
+    name = "yoshiso"
+    description = "yoshiso's website, Engineering, UI/UX, Startup"
+    bio = "I'm engineer love RoR."
+    # Enter optionally your twitter account
+    twitter = "yoshiso44"
+    enableRSS = true
+
+    # The variables below are optionally too and can be used to
+    # translate or customize each string of the theme.
+
+    # Navigation links
+    home = ""
+    about = ""
+    subscribe = "RSS"
+    # Pagination links
+    olderPosts = ""
+    newerPosts = ""
+    readMore = ""
+    copyright = ""
+    # Sharing options and author information in posts
+    aboutAuthor = "I'm an enthusiastic gopher."
+    tweet = ""
+    share = ""
+    # 404 page
+    title404 = "404 Not Found"
+    subtitle404 = "ごめんなさい。ページはありません。"
+
+    socialIconStyle = "circle"
+
+[social]
+    twitter  = "https://twitter.com/yoshiso44"
+    github   = "https://github.com/yss44"
